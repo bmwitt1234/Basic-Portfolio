@@ -1,0 +1,14 @@
+* {
+    background: cadetblue;
+    text-align: center;
+}
+
+@media only screen and (max-width: 770px) {
+    * {
+      background-color: blue;
+    }
+  }
+
+  h1 {
+      color: orange
+  }
