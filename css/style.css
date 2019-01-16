@@ -1,18 +1,35 @@
-* {
-    background: cadetblue;
-    text-align: center;
+
+
+
+Header {
+    background: #4aaaa5;
 }
 
 @media only screen and (max-width: 770px) {
-    * {
-      background-color: blue;
+    header {
+      background-color: #4aaaa5;
     }
   }
 
   h1 {
-      color: orange;
-      font-size: 50px;
+      color: white;
+      font-size: 100px;
       align: ;
   }
  
+nav {
+    color: black
+}
+
+div {
+    color: black
+}
+
+footer {
+    background-color: #4aaaa5;
+    
+}
+
+}
+
 }
